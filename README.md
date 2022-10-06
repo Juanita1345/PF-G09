@@ -42,7 +42,7 @@ Nuestro alcance primordial es obtener una estadística lo suficientemente espec�
  </div>
 <p>&nbsp;</p>
 <div align="justify">
- Los datos fueron obtenidos desde [OST_R | BTS | Transtats]([https://link-url-here.org](https://www.transtats.bts.gov/)]), página donde informan todos los vuelos existentes en Estados Unidos. 
+ Los datos fueron obtenidos desde [OST_R | BTS | Transtats](https://link-url-here.org](https://www.transtats.bts.gov/), página donde informan todos los vuelos existentes en Estados Unidos. 
   </div>
 <p>&nbsp;</p>
 
