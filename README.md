@@ -15,5 +15,6 @@ Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con 
 
 # Objetivos
 
-- Definir tabla de hechos y dimensiones los cuales contengan la información suficiente de vuelos entre 2018 a 2022 del Estado de Georgia mediante la obtención de datos en la web. Dichas tablas de hechos y dimensiones son obtenidas mediante el análisis de columnas relevantes de los datos obtenidos, con la necesidad de poder generar estadística que nos muestre hechos relevantes sobre los vuelos, principalmente en relación a atrasos y cancelaciones.
+- <div align="justify">Definir tabla de hechos y dimensiones los cuales contengan la información suficiente de vuelos entre 2018 a 2022 del Estado de Georgia mediante la obtención de datos en la web. Dichas tablas de hechos y dimensiones son obtenidas mediante el análisis de columnas relevantes de los datos obtenidos, con la necesidad de poder generar estadística que nos muestre hechos relevantes sobre los vuelos, principalmente en relación a atrasos y cancelaciones. </div>
+<p>&nbsp;</p>
  
