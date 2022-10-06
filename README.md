@@ -41,16 +41,10 @@ Nuestro alcance primordial es obtener una estadística lo suficientemente espec�
  El estado de Georgia cuenta con 5 aeropuertos y uno de los aeropuertos con más demanda en el mundo, que es Atlanta International Airport, con aproximadamente 1000 vuelos diarios. De este modo obtenemos una base de datos aproximadamente de 4 millones de vuelos. 
  </div>
 <p>&nbsp;</p>
-<div align="justify">
+
  Los datos fueron obtenidos desde [OST_R | BTS | Transtats](https://www.transtats.bts.gov/), página donde informan todos los vuelos existentes en Estados Unidos. 
-  </div>
+
 <p>&nbsp;</p>
 
-<div onclick="location.href='https://www.transtats.bts.gov/';" id="smallbox">The content of the div here</div>
 
-<a href="http://example.com">
-  <div>
-     anything
-  </div>
-</a>
 
