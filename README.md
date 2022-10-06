@@ -48,4 +48,9 @@ Nuestro alcance primordial es obtener una estad√≠stica lo suficientemente espec√
 
 <div onclick="location.href='https://www.transtats.bts.gov/';" id="smallbox">The content of the div here</div>
 
+<a href="http://example.com">
+  <div>
+     anything
+  </div>
+</a>
 
