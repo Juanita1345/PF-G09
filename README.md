@@ -45,6 +45,37 @@ Nuestro alcance primordial es obtener una estadística lo suficientemente espec�
  Los datos fueron obtenidos desde [OST_R | BTS | Transtats](https://www.transtats.bts.gov/), página donde informan todos los vuelos existentes en Estados Unidos. 
 
 <p>&nbsp;</p>
+<div align="justify">
+Decimos reducir la cantidad de Aeropuertos, ya que consideramos que analizar una parte del todo es más de lo mismo. Los datasheet obtenidos contienen aproximadamente 110 columnas, con lo que podemos observar que hay mucha información irrelevante para nuestro análisis. 
+ </div>
+<p>&nbsp;</p>
+<div align="justify">
+La información que vamos a obtener de dichas tablas son:
+  </div>
+<p>&nbsp;</p>
 
-
-
+| **Variable**  | **Nombre de columna** | **Justificación**                                | **Diccionario Datos**                                    |
+|---------------|-----------------------|--------------------------------------------------|----------------------------------------------------------|
+| **FL_DATE**   | Fecha de Vuelo        | Necesario para todo tipo de análisis temporales. | Fecha completa de la realización del vuelo (dd/mm/aaaa). |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
+|               |                       |                                                  |                                                          |
