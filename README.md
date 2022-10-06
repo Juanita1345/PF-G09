@@ -18,3 +18,15 @@ Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con 
 - <div align="justify">Definir tabla de hechos y dimensiones los cuales contengan la información suficiente de vuelos entre 2018 a 2022 del Estado de Georgia mediante la obtención de datos en la web. Dichas tablas de hechos y dimensiones son obtenidas mediante el análisis de columnas relevantes de los datos obtenidos, con la necesidad de poder generar estadística que nos muestre hechos relevantes sobre los vuelos, principalmente en relación a atrasos y cancelaciones. </div>
 <p>&nbsp;</p>
  
+ - <div align="justify">Construir KPI’s, las cuales nos ayuden a tomar decisiones relevantes a futuro de la posibilidad de ganancia de un vuelo dado, en este caso teniendo en cuenta ya la construcción de la tabla de hechos.
+ </div>
+<p>&nbsp;</p>
+
+ - <div align="justify">Generar mapas relacionados a los vuelos categorizados por mes, dia y año, teniendo en cuenta únicamente el rango de datos de 2018 a 2022, en este caso dicho mapa es interactivo, es decir, el usuario final facilite la interpretación de un vuelo dado o un conjunto de vuelos teniendo en cuenta la tabla de hechos y dimensiones.
+  </div>
+<p>&nbsp;</p>
+
+- <div align="justify">Crear modelo predictivo que permita determinar si un vuelo llegará a su destino con retraso desde una perspectiva categórica y temporal, dicha categoría está referida a la decisión de que dicho vuelo esté retrasado o no. </div>
+<p>&nbsp;</p>
+
+
