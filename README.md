@@ -46,6 +46,6 @@ Nuestro alcance primordial es obtener una estad√≠stica lo suficientemente espec√
   </div>
 <p>&nbsp;</p>
 
-<div onclick="location.href='portable-display-stands.html';" id="smallbox">The content of the div here</div>
+<div onclick="location.href='https://www.transtats.bts.gov/';" id="smallbox">The content of the div here</div>
 
 
