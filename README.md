@@ -29,4 +29,21 @@ Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con 
 - <div align="justify">Crear modelo predictivo que permita determinar si un vuelo llegará a su destino con retraso desde una perspectiva categórica y temporal, dicha categoría está referida a la decisión de que dicho vuelo esté retrasado o no. </div>
 <p>&nbsp;</p>
 
+- <div align="justify">Crear Dashboard donde se encuentran los mapas interactivos, KPI’s (gráficas de interés) para una facilidad de interpretación fenomenológica, en este caso con los datos estructurados de la tabla de hechos y dimensiones. </div>
+<p>&nbsp;</p>
+
+# Alcance
+
+<div align="justify">
+Nuestro alcance primordial es obtener una estadística lo suficientemente específica para calcular los retrasos y cancelaciones futuras a los datos brutos, únicamente teniendo en cuenta los datos de vuelos desde el 2018 hasta el 2022 del Estado de Georgia. </div>
+<p>&nbsp;</p>
+<div align="justify">
+ El estado de Georgia cuenta con 5 aeropuertos y uno de los aeropuertos con más demanda en el mundo, que es Atlanta International Airport, con aproximadamente 1000 vuelos diarios. De este modo obtenemos una base de datos aproximadamente de 4 millones de vuelos. 
+ </div>
+<p>&nbsp;</p>
+<div align="justify">
+ Los datos fueron obtenidos desde [OST_R | BTS | Transtats]([https://link-url-here.org](https://www.transtats.bts.gov/)), página donde informan todos los vuelos existentes en Estados Unidos. 
+  </div>
+<p>&nbsp;</p>
+
 
