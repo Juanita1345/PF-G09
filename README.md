@@ -78,4 +78,21 @@ La información que vamos a obtener de dichas tablas son:
 | **WEATHER_DELAY**         | Retraso por clima en minutos                     | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por inclemencias meteorológicas. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                                              |
 | **NAS_DELAY**             | Retraso por tránsito Aéreo en minutos.           | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por la National Air System. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                                                   |
 | **SEGURITY_DELAY**        | Retraso por seguridad en minutos                 | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por los controles de seguridad o sus inspecciones. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                            |
-| **LATE_AIRCRAFT_DELAY**   | Retraso por avión en minutos                     | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso por llegada tarde de la aeronave. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                                                     |
+| **LATE_AIRCRAFT_DELAY**   | Retraso por avión en minutos                     | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso por llegada tarde de la aeronave. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.   |
+
+
+# KPI's
+- Volumen de pasajeros Aéreos (**Tentativo**)
+- venta de tiquetes al mes (**Tentativo**)
+- Porcentaje de cancelación de vuelos.
+- Porcentaje de sitios poco frecuentes.
+- Porcentaje de sitios muy frecuentes.
+- Velocidad del vuelo y retrasos o cancelaciones.
+- Cociente de retraso con cancelación.
+- Indicador de retraso de aeropierto con respecto al mes anterior.
+- Kilómetros recorridos por pasajero.
+
+| **Valor del KPI**: RETRASOS AEROPUERTOS | Este KPI es un indicador que determina la sumatoria de los retrasos existentes de un aeropuerto respecto del mes anterior.          |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**              | Tiempo de llegada Ideal, Tiempo de llegada Real, Retraso                                                                            |
+| **Fórmula**                             | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real $$R\_A\_P=Tiempo\_llegada\_programada-Tiempo_\llegada\_real$$ |
