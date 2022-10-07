@@ -116,3 +116,16 @@ La información que vamos a obtener de dichas tablas son:
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**       | Número de pasajeros ingresados, distancia recorrida.                                                                                  |
 | **Fórmula**                      | Número de pasajeros por los kilómetros recorridos $E(distanciaRecorrida)=\frac{1}{Total_Pasajeros}\sum (pasajeros*DistanciaRecorrida)$ |
+
+# Tecnologías
+
+<div align="justify">
+ En primera instancia para este proyecto se plantea trabajar con herramientas en la nube como lo es AWS o Google Cloud, gracias a que con estas herramientas se ofrece una solución donde se puede consultar de forma remota y utilizando recursos de servidores externos. Adicionalmente se obtiene: optimización del procesamiento de limpieza, análisis estadístico y diseño agradable del dashboard. Entre estos dos se presenta una preferencia por el servicio de AWS, debido a que tiene mayor participación en el mercado.
+ </div>
+  <p>&nbsp;</p>
+  <div align="justify">
+ Finalmente como alternativa que los dos anteriores servicios no generen una optimización esperable, se usarán herramientas locales para el tratamiento de datos, como lo es Python y las librerías complementarias. 
+ </div>
+ | **AWS**                                                                                                                                | **Google Cloud**                                                                                                      | **Locales (Python y otros)**                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| - AWS Glue DataBrew -> Limpieza - Dynamo AWS -> DB - Amazon QuickSight -> Para visualizar - Amazon SageMaker  -> Para Machine Learning | - Cloud DataFusion -> Limpieza - Cloud SQL -> DB - DataStudio -> Para visualizar - Google AI -> Para Machine Learning | - Pandas y Numpy -> Limpieza - SQLite -> DB - Streamlit -> Para visualizar - Sklearn -> Para Machine Learning |
