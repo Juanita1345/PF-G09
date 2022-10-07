@@ -170,3 +170,6 @@ Teniendo en cuenta que las herramientas no son excluyentes entre sí,  usaremos 
  - Data engineer (Juanita Ortiz, Harold Laserna y Cristian Alvarez):  Generar el ETL y DB 
  - Data Scientist (Harold Laserna y Cristian Alvarez): Generación del modelo predictivo
  - Data Analyst (Cristhian Ipanaqué, Santiago Gallastegui y Juanita Ortiz): Dashboard y análisis de resultados
+# Cronograma de desarrollo
+
+![Descripción de la imagen](../images/cronograma.png)
