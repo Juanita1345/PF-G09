@@ -101,3 +101,8 @@ La información que vamos a obtener de dichas tablas son:
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**             | Tiempo de llegada Ideal, Tiempo de llegada Real, Retraso                                                                                       |
 | **Fórmula**                            | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso $RAP=TiempoLlegadaProgramada-TiempoLlegadarRealRetraso$ |
+
+| **Valor del KPI**: VARIACIÓN DE VELOCIDAD | Este KPI es un indicador sobre la variación de la velocidad media de las aeronaves trimestralmente.                                                              |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**                | Distancia entre aeropuertos, tiempo de vuelo entre aeropuertos.                                                                                                  |
+| **Fórmula**                               | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso V_{aeropuerto}=\frac{DistanciaEntreEeropuertos}{TiempoDeVueloEntreAeropuertos}$ |
