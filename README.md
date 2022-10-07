@@ -172,4 +172,4 @@ Teniendo en cuenta que las herramientas no son excluyentes entre sí,  usaremos 
  - Data Analyst (Cristhian Ipanaqué, Santiago Gallastegui y Juanita Ortiz): Dashboard y análisis de resultados
 # Cronograma de desarrollo
 
-![Descripción de la imagen](../images/cronograma.png)
+![Descripción de la imagen](/images/cronograma.png)
