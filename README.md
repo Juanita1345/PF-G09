@@ -126,6 +126,7 @@ La información que vamos a obtener de dichas tablas son:
   <div align="justify">
  Finalmente como alternativa que los dos anteriores servicios no generen una optimización esperable, se usarán herramientas locales para el tratamiento de datos, como lo es Python y las librerías complementarias. 
  </div>
+ 
  | **AWS**                                                                                                                                | **Google Cloud**                                                                                                      | **Locales (Python y otros)**                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | - AWS Glue DataBrew -> Limpieza - Dynamo AWS -> DB - Amazon QuickSight -> Para visualizar - Amazon SageMaker  -> Para Machine Learning | - Cloud DataFusion -> Limpieza - Cloud SQL -> DB - DataStudio -> Para visualizar - Google AI -> Para Machine Learning | - Pandas y Numpy -> Limpieza - SQLite -> DB - Streamlit -> Para visualizar - Sklearn -> Para Machine Learning |
