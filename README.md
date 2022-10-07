@@ -130,3 +130,14 @@ La información que vamos a obtener de dichas tablas son:
  | **AWS**                                                                                                                                | **Google Cloud**                                                                                                      | **Locales (Python y otros)**                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | - AWS Glue DataBrew -> Limpieza / - Dynamo AWS -> DB / - Amazon QuickSight -> Para visualizar / - Amazon SageMaker  -> Para Machine Learning | - Cloud DataFusion -> Limpieza / - Cloud SQL ->  DB / - DataStudio -> Para visualizar / - Google AI -> Para Machine Learning | - Pandas y Numpy -> Limpieza / - SQLite -> DB / - Streamlit -> Para visualizar / - Sklearn -> Para Machine Learning |
+
+<div align="justify">
+Teniendo en cuenta que las herramientas no son excluyentes entre sí,  usaremos librerías de python para generar limpiezas de prueba y análisis de prueba antes de la construcción del data warehouse.
+ </div>
+ 
+ # Roles
+ 
+ - Project Manager (Cristhian Ipanaqué y Santiago Gallastegui): Organizar, gestionar, documentar
+ - Data engineer (Juanita Ortiz, Harold Laserna y Cristian Alvarez):  Generar el ETL y DB 
+ - Data Scientist (Harold Laserna y Cristian Alvarez): Generación del modelo predictivo
+ - Data Analyst (Cristhian Ipanaqué, Santiago Gallastegui y Juanita Ortiz): Dashboard y análisis de resultados
