@@ -95,4 +95,4 @@ La información que vamos a obtener de dichas tablas son:
 | **Valor del KPI**: RETRASOS AEROPUERTOS | Este KPI es un indicador que determina la sumatoria de los retrasos existentes de un aeropuerto respecto del mes anterior.          |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**              | Tiempo de llegada Ideal, Tiempo de llegada Real, Retraso                                                                            |
-| **Fórmula**                             | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real $$R\_A\_P=Tiempo\_llegada\_programada-Tiempo_\llegada\_real$$ |
+| **Fórmula**                             | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real $R\_A\_P=Tiempo\_llegada\_programada-Tiempo_\llegada\_real$ |
