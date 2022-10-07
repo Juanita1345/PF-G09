@@ -102,7 +102,17 @@ La información que vamos a obtener de dichas tablas son:
 | **Requerimiento de Datos**             | Tiempo de llegada Ideal, Tiempo de llegada Real, Retraso                                                                                       |
 | **Fórmula**                            | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso $RAP=TiempoLlegadaProgramada-TiempoLlegadarRealRetraso$ |
 
-| **Valor del KPI**: VELOCIDAD DEL VUELO ENTRE AEROPUERTOS | Este KPI es un indicador sobre la variación de la velocidad media de las aeronaves trimestralmente.                                                              |
+| **Valor del KPI**: VELOCIDAD DEL VUELO ENTRE AEROPUERTOS |Este KPI es un indicador sobre la velocidad media de las aeronaves trimestralmente entre aeropuertos.                                                              |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**                | Distancia entre aeropuertos, tiempo de vuelo entre aeropuertos.                                                                                                  |
 | **Fórmula**                               | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso $V_{vuelo}=\frac{DistanciaEntreEeropuertos}{TiempoDeVueloEntreAeropuertos}$ |
+
+| **Valor del KPI**: CANCELACIONES ESTADO GEORGIA ESTÁNDAR | Este KPI es un indicador sobre la cantidad de cancelaciones del estado de Georgia respecto a la media mundial.                                                      |
+|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**                               | Cancelaciones, Cantidad de vuelos, Cancelaciones de media mundial.                                                                                                  |
+| **Fórmula**                                              | Cancelaciones en el estado de Georgia dividido en cancelaciones de media mundial. C_{GeorgiaEstandar}=\frac{CancelacionesEstadoGeorgia}{CancelacionesMediaMundial}$ |
+
+| **Valor del KPI**: CANCELACIONES ESTADO GEORGIA ESTÁNDAR | Este KPI es un indicador sobre la cantidad de cancelaciones del estado de Georgia respecto a la media mundial.                                                      |
+|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**                               | Cancelaciones, Cantidad de vuelos, Cancelaciones de media mundial.                                                                                                  |
+| **Fórmula**                                              | Cancelaciones en el estado de Georgia dividido en cancelaciones de media mundial. C_{GeorgiaEstandar}=\frac{CancelacionesEstadoGeorgia}{CancelacionesMediaMundial}$ |
