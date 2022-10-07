@@ -110,9 +110,9 @@ La información que vamos a obtener de dichas tablas son:
 | **Valor del KPI**: CANCELACIONES ESTADO GEORGIA ESTÁNDAR | Este KPI es un indicador sobre la cantidad de cancelaciones del estado de Georgia respecto a la media mundial.                                                      |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**                               | Cancelaciones, Cantidad de vuelos, Cancelaciones de media mundial.                                                                                                  |
-| **Fórmula**                                              | Cancelaciones en el estado de Georgia dividido en cancelaciones de media mundial. C_{GeorgiaEstandar}=\frac{CancelacionesEstadoGeorgia}{CancelacionesMediaMundial}$ |
+| **Fórmula**                                              | Cancelaciones en el estado de Georgia dividido en cancelaciones de media mundial. $C_{GeorgiaEstandar}=\frac{CancelacionesEstadoGeorgia}{CancelacionesMediaMundial}$ |
 
-| **Valor del KPI**: CANCELACIONES ESTADO GEORGIA ESTÁNDAR | Este KPI es un indicador sobre la cantidad de cancelaciones del estado de Georgia respecto a la media mundial.                                                      |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Requerimiento de Datos**                               | Cancelaciones, Cantidad de vuelos, Cancelaciones de media mundial.                                                                                                  |
-| **Fórmula**                                              | Cancelaciones en el estado de Georgia dividido en cancelaciones de media mundial. C_{GeorgiaEstandar}=\frac{CancelacionesEstadoGeorgia}{CancelacionesMediaMundial}$ |
+| **Valor del KPI**: TRÁFICO AÉREO | Este KPI es un indicador que representa el tráfico aéreo, o también visto como la demanda de transporte aéreo.                        |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**       | Número de pasajeros ingresados, distancia recorrida.                                                                                  |
+| **Fórmula**                      | Número de pasajeros por los kilómetros recorridos $E(distanciaRecorrida)=\frac{1}{Total_Pasajeros}\sum (pasajeros*DistanciaRecorrida)$ |
