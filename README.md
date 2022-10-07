@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3 style="text-align: center;">Cristian Alvarez:</h3>
+<h3 style="text-align: center;">Cristian Alvarez</h3>
 </div>
 
 <div align="center">
