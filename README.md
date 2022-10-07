@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="text-align: center;">Proyecto Análitico y Predictivo De Vuelos Comerciales</h1>
+<h1 style="text-align: center;">Análisis Predictivo y Estadístico De Vuelos Comerciales Del Estado De Georgia</h1>
 </div>
 <div align="center">
 <h2 style="text-align: center;">Diseñado Por:</h2>
