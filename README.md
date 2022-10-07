@@ -100,4 +100,4 @@ La información que vamos a obtener de dichas tablas son:
 | **Valor del KPI**: RETRASOS AEROLÍNEAS | Este KPI es un indicador que determina la sumatoria de los retrasos existentes de una aerolínea respecto del mes anterior.                     |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Requerimiento de Datos**             | Tiempo de llegada Ideal, Tiempo de llegada Real, Retraso                                                                                       |
-| **Fórmula**                            | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso $$R\_A\_P=TiempoLlegadaProgramada-TiempoLlegadarRealRetraso$$ |
+| **Fórmula**                            | Diferencia entre tiempo de llegada ideal menos tiempo de llegada real de retraso $RAP=TiempoLlegadaProgramada-TiempoLlegadarRealRetraso$ |
