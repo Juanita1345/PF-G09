@@ -55,6 +55,8 @@ Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con 
   </div>
 <p>&nbsp;</p>
 
+<span style="color:red">Dos kpis construidos y redefinir objetivos</style>
+
 - <div align="justify">Crear modelo predictivo que permita determinar si un vuelo llegará a su destino con retraso desde una perspectiva categórica y temporal, dicha categoría está referida a la decisión de que dicho vuelo esté retrasado o no. </div>
 <p>&nbsp;</p>
 
