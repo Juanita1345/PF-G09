@@ -41,9 +41,10 @@ Afortunadamente en la industria aeronáutica se cuenta con gran información de 
 <div align="justify">
 Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con múltiples enfoques, por lo tanto a la hora de hacer un estudio sobre este, se debe segmentar la información. A continuación se listan algunas de las categorías que se presentan en el gremio, sin embargo para este proyecto se trabajará desde un enfoque de vuelos comerciales de pasajeros, con datos gubernamentales , evaluando principalmente las rutas:</div>
 <p>&nbsp;</p>
-- <div align="justify">Cargo o pasajeros.</div>
-- <div align="justify">Aerolíneas, gobierno y aeropuerto.</div>
-- <div align="justify">Pasajeros, aeronaves, tripulación, rutas y empleados.</div>
+
+- Cargo o pasajeros.
+- Aerolíneas, gobierno y aeropuerto.
+- Pasajeros, aeronaves, tripulación, rutas y empleados.
 
 # Objetivos
 
@@ -128,10 +129,10 @@ La información que vamos a obtener de dichas tablas son:
 - Relación con meses pasados mediante el valor esperado
 - Relación a rangos de fechas para comparación. (**Tentativo**)
 
-| **Valor del KPI: REDUCIR RETRASOS EN ARRIBO DE VUELOS EN UN 5% TRIMESTRALMENTE, POR AEROLÍNEAS** | Este KPI es un indicador que determina el porcentaje de  variación trimestral de la sumatoria de los retrasos en minutos de cada aerolínea, respecto del mismo trimestre del año anterior    |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Requerimiento de Datos**                                                                       | Identificar si el vuelo llega con un tiempo efectivo o con un retraso general.                                                                                                               |
-| **Fórmula**                                                                                      | $KPI = \frac{\sum_{Trimestre_{actual}} (LlegadaProgramada-LlegadaReal) - \sum_{Trimeste_{actual}} (LlegadaProgramada-LlegadaReal){\sum_{Trimeste_{actual}} (LlegadaProgramada-LlegadaReal)}$ |
+| **Valor del KPI: REDUCIR RETRASOS EN ARRIBO DE VUELOS EN UN 5% TRIMESTRALMENTE, POR AEROLÍNEAS** | Este KPI es un indicador que determina el porcentaje de  variación trimestral de la sumatoria de los retrasos en minutos de cada aerolínea, respecto del mismo trimestre del año anterior |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**                                                                       | Identificar si el vuelo llega con un tiempo efectivo o con un retraso general.                                                                                                            |
+| **Fórmula**                                                                                      | $KPI = \sum_{Trimestre_{actual}} (LlegadaProgramada-LlegadaReal) - \sum_{Trimeste_{anterior}} (LlegadaProgramada-LlegadaReal) \sum_{Trimeste_{anterior}} (LlegadaProgramada-LlegadaReal)$ |
 
 | **Valor del KPI: Eficiencia del Vuelo** | Esta métrica es un valor que determina la diferencia entre el retraso de salida menos el retraso de llegada. Si el valor total es negativo se habla de un retraso del vuelo, si es positivo el vuelo fue eficiente |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
