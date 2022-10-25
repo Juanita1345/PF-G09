@@ -113,8 +113,9 @@ La información que vamos a obtener de dichas tablas son:
 | **NAS_DELAY**             | Retraso por tránsito Aéreo en minutos.           | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por la National Air System. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                                                   |
 | **SEGURITY_DELAY**        | Retraso por seguridad en minutos                 | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por los controles de seguridad o sus inspecciones. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                            |
 | **LATE_AIRCRAFT_DELAY**   | Retraso por avión en minutos                     | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso por llegada tarde de la aeronave. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.   |
+|1|1|2|3|5|
 
-| **DISTANCE** | Distancia entre aeropuertos | Medida importante para el cálculo de la velocidad media de vuelo. | Distancia en millas entre aeropuertos de origen y desntino.|
+
 
 # KPI's
 - Volumen de pasajeros Aéreos (**Tentativo**)
