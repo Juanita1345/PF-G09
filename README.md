@@ -39,8 +39,11 @@ Afortunadamente en la industria aeronáutica se cuenta con gran información de 
 </div>
 <p>&nbsp;</p>
 <div align="justify">
-Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con múltiples enfoques, por lo tanto a la hora de hacer un estudio sobre este, se debe segmentar la información. A continuación se listan algunas de las categorías que se presentan en el gremio, sin embargo para este proyecto se trabajará desde un enfoque de vuelos comerciales de pasajeros, con datos gubernamentales , evaluando principalmente las rutas. 
-</div>
+Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con múltiples enfoques, por lo tanto a la hora de hacer un estudio sobre este, se debe segmentar la información. A continuación se listan algunas de las categorías que se presentan en el gremio, sin embargo para este proyecto se trabajará desde un enfoque de vuelos comerciales de pasajeros, con datos gubernamentales , evaluando principalmente las rutas:</div>
+<p>&nbsp;</p>
+- <div align="justify">Cargo o pasajeros.</div>
+- <div align="justify">Aerolíneas, gobierno y aeropuerto.</div>
+- <div align="justify">Pasajeros, aeronaves, tripulación, rutas y empleados.</div>
 
 # Objetivos
 
