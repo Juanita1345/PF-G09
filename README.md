@@ -118,13 +118,15 @@ La información que vamos a obtener de dichas tablas son:
 # KPI's
 - Volumen de pasajeros Aéreos (**Tentativo**)
 - venta de tiquetes al mes (**Tentativo**)
-- Porcentaje de cancelación de vuelos.
-- Porcentaje de sitios poco frecuentes.
-- Porcentaje de sitios muy frecuentes.
-- Velocidad del vuelo y retrasos o cancelaciones.
-- Cociente de retraso con cancelación.
-- Indicador de retraso de aeropierto con respecto al mes anterior.
-- Kilómetros recorridos por pasajero.
+- Porcentaje de cancelación de vuelos. (**Tentativo**)
+- Porcentaje de sitios poco frecuentes.(**Tentativo**)
+- Porcentaje de sitios muy frecuentes. (**Tentativo**)
+- Relación entre distancia/tiempo y retrasos o cancelaciones.
+- Relación entre aerolínea y retrasos/cancelaciones (**Tentativo**)
+- Relación entre destinos/origen y retraso/cancelaciones (**Tentativo**)
+- RPK:Kilómetros recorridos por pasajero
+- Relación con meses pasados mediante el valor esperado
+- Relación a rangos de fechas para comparación. (**Tentativo**)
 
 | **Valor del KPI**: RETRASOS AEROPUERTOS | Este KPI es un indicador que determina la sumatoria de los retrasos existentes de un aeropuerto respecto del mes anterior.          |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
