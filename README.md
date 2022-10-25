@@ -128,6 +128,12 @@ La información que vamos a obtener de dichas tablas son:
 - Relación con meses pasados mediante el valor esperado
 - Relación a rangos de fechas para comparación. (**Tentativo**)
 
+| **Valor del KPI: REDUCIR RETRASOS EN ARRIBO DE VUELOS EN UN 5% TRIMESTRALMENTE, POR AEROLÍNEAS** | Este KPI es un indicador que determina el porcentaje de  variación trimestral de la sumatoria de los retrasos en minutos de cada aerolínea, respecto del mismo trimestre del año anterior |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requerimiento de Datos**                                                                       | Identificar si el vuelo llega con un tiempo efectivo o con un retraso general.                                                                                                            |
+| **Fórmula**                                                                                      | $KPI = \sum_{Trimestre_{actual}} (LlegadaProgramada-llegadaReal) - \sum $                                                                                                                 |
+
+
 | **Valor del KPI: Eficiencia del Vuelo** | Esta métrica es un valor que determina la diferencia entre el retraso de salida menos el retraso de llegada. Si el valor total es negativo se habla de un retraso del vuelo, si es positivo el vuelo fue eficiente |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Objetivo**                            | Identificar si el vuelo llega con un tiempo efectivo o con un retraso general.                                                                                                                                     |
