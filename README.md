@@ -58,8 +58,6 @@ Se debe tener en cuenta que la aviación comercial es un mundo muy amplio y con 
   </div>
 <p>&nbsp;</p>
 
-<span style="color:red">Dos kpis construidos y redefinir objetivos</style>
-
 - <div align="justify">Crear modelo predictivo que permita determinar si un vuelo llegará a su destino con retraso desde una perspectiva categórica y temporal, dicha categoría está referida a la decisión de que dicho vuelo esté retrasado o no. </div>
 <p>&nbsp;</p>
 
@@ -113,7 +111,7 @@ La información que vamos a obtener de dichas tablas son:
 | **NAS_DELAY**             | Retraso por tránsito Aéreo en minutos.           | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por la National Air System. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                                                   |
 | **SEGURITY_DELAY**        | Retraso por seguridad en minutos                 | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso causado por los controles de seguridad o sus inspecciones. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.                                                                                                                                                                                                            |
 | **LATE_AIRCRAFT_DELAY**   | Retraso por avión en minutos                     | Cálculo importante para calcular el retraso del vuelo.                                                                                    | Retraso por llegada tarde de la aeronave. Expresado como un conjunto de enteros en minutos. Dato útil para identificar retrasos causados por este factor.   |
-|1|1|2|3|5|
+|**DISTANCE**|Distancia entre aeropuertos|Medida importante para el cálculo de la velocidad media de vuelo|Distancia en millas entre aeropuertos de origen y destino.|5|
 
 
 
